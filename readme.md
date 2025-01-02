@@ -1,5 +1,1 @@
-Hello, this is my first commit! 
-new lin
-
-
-modioe
+Hello, this is my first commit!
